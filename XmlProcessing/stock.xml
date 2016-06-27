@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='template.xsl'?>
+<stock name="eBookStore">
+    <ebooks>
+        <ebook>
+            <authors>
+                <author>Philip Jose Farmer</author>
+            </authors>
+            <devices>
+                <device>Kindle</device>
+            </devices>
+            <isbn>973-9439-73-8</isbn>
+            <price>1.99</price>
+            <title>Dayworld</title>
+        </ebook>
+        <ebook>
+            <authors>
+                <author>Frank Herbert</author>
+                <author>Bill Ransom</author>
+            </authors>
+            <devices>
+                <device>Kindle</device>
+            </devices>
+            <isbn>973-569-806-4</isbn>
+            <price>3.99</price>
+            <title>Efectul Lazar</title>
+        </ebook>
+        <ebook>
+            <authors>
+                <author>Roger Zelazny</author>
+            </authors>
+            <devices>
+                <device>Kindle</device>
+                <device>Tablet</device>
+            </devices>
+            <isbn>973-569-865-X</isbn>
+            <price>2.99</price>
+            <title>Lordul Luminii</title>
+        </ebook>
+        <ebook>
+            <authors>
+                <author>Jeff Vandermeer</author>
+            </authors>
+            <devices>
+                <device>Kindle</device>
+            </devices>
+            <isbn>978-973-733-095-6</isbn>
+            <price>1.49</price>
+            <title>Veniss Underground</title>
+        </ebook>
+        <ebook>
+            <authors>
+                <author>Frederik Pohl</author>
+            </authors>
+            <devices>
+                <device>Kindle</device>
+            </devices>
+            <isbn>978-973-143-301-1</isbn>
+            <price>2.49</price>
+            <title>Poarta</title>
+        </ebook>
+    </ebooks>
+</stock>
